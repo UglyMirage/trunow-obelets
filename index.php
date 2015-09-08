@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Стили1</title>
+  <title>Стили</title>
   <style type="text/css">
     H1 { font-size: 120%; font-family: Arial, Helvetica, sans-serif; color: green; }
   </style>
