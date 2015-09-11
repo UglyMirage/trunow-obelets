@@ -1,0 +1,35 @@
+преднастрйка
+git config --global user.name ""
+git config --global user.email ""
+
+свединья о конфигурации и базовых командах 
+git config
+git config --list (к примеру) свединья о настройке
+
+мастеровая директория
+cd *
+cd d:/system32/git
+
+размещение в мастеровой папке репозитория
+git init
+
+изменения файлов в рабочем репозитории
+git status
+
+обавить файл в репозиторий
+add file name.raz
+
+добавить все файлы (или их изменения) в репозитороий
+git add . 
+
+добавление коммита для новой версии + название версии
+git commit -m ""
+
+добавление мастеровой папки в удаленный репрезиторий
+git remote add origin https://github.com/UserName/repr-name.git
+git push -u origin master
+
+клонирование репрезитория в мастеровую папку
+git clone https://https://github.com/UserName/repr-name.git
+
+вставка в Git Bash Shift+insert
